@@ -48,7 +48,7 @@ sub run {
         $SIG{ALRM} = 'IGNORE';
         # print "this is child $$\n";
         exec $cmd;
-        exit
+        die 'Exec failed.'
     }
     else {
         die 'Unable to fork!';
