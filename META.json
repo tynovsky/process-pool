@@ -52,5 +52,19 @@
       }
    },
    "release_status" : "unstable",
-   "version" : "0.01"
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/tynovsky/process-pool/issues"
+      },
+      "homepage" : "https://github.com/tynovsky/process-pool",
+      "repository" : {
+         "type" : "git",
+         "url" : "git://github.com/tynovsky/process-pool.git",
+         "web" : "https://github.com/tynovsky/process-pool"
+      }
+   },
+   "version" : "0.01",
+   "x_contributors" : [
+      "tynovsky <tynovsky@seznam.cz>"
+   ]
 }

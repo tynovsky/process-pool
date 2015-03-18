@@ -1,4 +1,4 @@
 name = "Process-Pool"
-# badges = ["travis"]
+badges = ["travis"]
 module_maker="ModuleBuildTiny"
 

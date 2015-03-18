@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/tynovsky/process-pool.svg?branch=master)](https://travis-ci.org/tynovsky/process-pool)
 # NAME
 
 Process::Pool - It's new $module
